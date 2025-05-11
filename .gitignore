@@ -79,6 +79,7 @@ Claude.md
 .llm_context/
 .aider*
 .claude*
+.aidocs/
 
 # PyBuilder
 target/
