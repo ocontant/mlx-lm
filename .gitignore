@@ -74,6 +74,12 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# AI Contexts
+Claude.md
+.llm_context/
+.aider*
+.claude*
+
 # PyBuilder
 target/
 
